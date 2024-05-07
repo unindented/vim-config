@@ -1,0 +1,51 @@
+[submodule "pack/colors/opt/catppuccin"]
+	path = pack/colors/opt/catppuccin
+	url = https://github.com/catppuccin/vim
+[submodule "pack/plugins/start/characterize"]
+	path = pack/plugins/start/characterize
+	url = https://github.com/tpope/vim-characterize
+[submodule "pack/plugins/start/ctrlp"]
+	path = pack/plugins/start/ctrlp
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "pack/plugins/start/endwise"]
+	path = pack/plugins/start/endwise
+	url = https://github.com/tpope/vim-endwise
+[submodule "pack/plugins/start/fugitive"]
+	path = pack/plugins/start/fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/plugins/start/gitgutter"]
+	path = pack/plugins/start/gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/plugins/start/nerdcommenter"]
+	path = pack/plugins/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "pack/plugins/start/nerdtree"]
+	path = pack/plugins/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "pack/plugins/start/obsession"]
+	path = pack/plugins/start/obsession
+	url = https://github.com/tpope/vim-obsession
+[submodule "pack/plugins/start/repeat"]
+	path = pack/plugins/start/repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "pack/plugins/start/ripgrep"]
+	path = pack/plugins/start/ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git
+[submodule "pack/plugins/start/sensible"]
+	path = pack/plugins/start/sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/plugins/start/supertab"]
+	path = pack/plugins/start/supertab
+	url = https://github.com/ervandew/supertab
+[submodule "pack/plugins/start/surround"]
+	path = pack/plugins/start/surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/plugins/start/unimpaired"]
+	path = pack/plugins/start/unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "pack/plugins/start/vitality"]
+	path = pack/plugins/start/vitality
+	url = https://github.com/sjl/vitality.vim
+[submodule "pack/syntax/start/markdown"]
+	path = pack/syntax/start/markdown
+	url = https://github.com/preservim/vim-markdown
