@@ -2,6 +2,8 @@
 
 My [Vim](https://www.vim.org) config.
 
+![Screenshot of terminal](./docs/screenshot.png)
+
 ## Installation
 
 Clone this repo into `~/.vim` (or `~/.config/vim` if you're on 9.1.327 or later):
