@@ -58,6 +58,9 @@
 	path = pack/plugins/start/unimpaired
 	url = https://github.com/tpope/vim-unimpaired
 	branch = master
+[submodule "pack/plugins/start/visual-multi"]
+	path = pack/plugins/start/visual-multi
+	url = https://github.com/mg979/vim-visual-multi
 [submodule "pack/plugins/start/vitality"]
 	path = pack/plugins/start/vitality
 	url = https://github.com/sjl/vitality.vim
