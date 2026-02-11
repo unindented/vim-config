@@ -69,3 +69,6 @@
 	path = pack/syntax/start/markdown
 	url = https://github.com/preservim/vim-markdown
 	branch = master
+[submodule "pack/plugins/start/transparent"]
+	path = pack/plugins/start/transparent
+	url = https://github.com/tribela/vim-transparent
